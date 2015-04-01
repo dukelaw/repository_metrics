@@ -1,0 +1,11 @@
+pep8>=1.5.7
+xlrd>=0.9.3
+xlwt>=0.7.5
+lxml>=3.0.0
+MySQL-Python>=1.2.5
+SQLAlchemy>=0.9.0
+Flask>=0.10.0
+nameparser>=0.3.0
+requests>=2.4.0
+unidecode>=0.04.0
+unicodecsv
